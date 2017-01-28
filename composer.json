@@ -1,5 +1,7 @@
 {
     "name": "webflo/drupal-2843328",
     "type": "library",
-    "require": {}
+    "require": {
+      "php": "^7.0"
+    }
 }
